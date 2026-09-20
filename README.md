@@ -17,8 +17,7 @@ Hi there 👋, I'm Sonasri
 🚀 About Me
 
 - 🌱 Currently in last stage of  Data Structures & Algorithms
-- 📚 Learning System Design HLD(Basic) 
-LLD completd
+- 📚 Learning System Design(LLD)
 - 💻 Building Full Stack Projects using Flask
 - 🎯 Goal: Become a Software Development Engineer
 
