@@ -144,5 +144,5 @@ A platform demonstrating High-Level Design (HLD) and Low-Level Design (LLD) conc
 - 📧 Email: gummulasonasri@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/gummulasonasri
 - 💻 GitHub: https://github.com/sonasri87
-- 🎯 Leetcode:leetcode.com/u/sonasri
+- 🎯 Leetcode:https://leetcode.com/u/sonasri/
 ⭐ Thanks for visiting my profile!
